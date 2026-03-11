@@ -9,7 +9,6 @@ __pycache__/
 venv/
 env/
 ENV/
-.env
 
 
 # OS files
@@ -17,3 +16,5 @@ ENV/
 
 # Logs
 *.log
+config.bat
+node_modules
